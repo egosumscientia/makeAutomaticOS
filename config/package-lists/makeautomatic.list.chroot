@@ -1,0 +1,45 @@
+# --- Entorno base ---
+xfce4
+lightdm
+network-manager
+sudo
+vim
+curl
+wget
+git
+gnome-terminal
+
+# --- Desarrollo y cloud ---
+python3
+python3-pip
+python3-venv
+gcc
+g++
+make
+cmake
+docker.io
+docker-compose
+ansible
+awscli
+
+# --- Electrónica e IoT ---
+arduino
+minicom
+picocom
+openocd
+avrdude
+mosquitto
+mosquitto-clients
+libmodbus-dev
+python3-pymodbus
+kicad
+sigrok
+pulseview
+
+# --- Virtualización y compatibilidad ---
+open-vm-tools
+open-vm-tools-desktop
+qemu-guest-agent
+spice-vdagent
+hyperv-daemons
+

@@ -1,0 +1,18 @@
+# Directorios grandes o con permisos restringidos
+/binary/
+/chroot/
+/cache/
+/auto/
+/local/
+
+# Logs, imágenes y temporales
+*.log
+*.iso
+*.zsync
+*.md5
+*.sha256
+wget-log*
+build.log
+
+# Archivos generados por live-build
+live-image-*

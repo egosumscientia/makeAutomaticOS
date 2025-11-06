@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=makeAutomatic
+Description=makeAutomatic boot splash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/makeautomatic
+ScriptFile=/usr/share/plymouth/themes/makeautomatic/makeautomatic.script

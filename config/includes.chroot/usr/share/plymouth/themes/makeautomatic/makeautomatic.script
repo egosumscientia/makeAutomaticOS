@@ -1,0 +1,4 @@
+wallpaper_image = Image("logo.png");
+wallpaper_image.SetZ(-100);
+wallpaper_image.SetX(ScreenWidth/2 - wallpaper_image.GetWidth()/2);
+wallpaper_image.SetY(ScreenHeight/2 - wallpaper_image.GetHeight()/2);
