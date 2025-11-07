@@ -58,8 +58,6 @@ live-image-amd64.hybrid.iso
 ![Escritorio XFCE con logo makeAutomatic](imagenes/makeauto-desktop.png)
 ![Firefox y systemd activos](imagenes/makeauto-systemd.png)
 
-*(Las imágenes deben estar en `~/makeAutomaticOS/imagenes/` o en tu servidor web.)*
-
 ---
 
 ## ⚙️ Requisitos mínimos
@@ -72,7 +70,7 @@ live-image-amd64.hybrid.iso
 
 ## 🧑‍💻 Autor
 
-**Paulo Enrique Toro**
+**Paulo Enrique Toro Valderrama**
 Ingeniero electrónico – fundador de [makeAutomatic](https://makeautomatic.com)
 Colombia, 2025
 
