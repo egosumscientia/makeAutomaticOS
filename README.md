@@ -83,6 +83,16 @@ Colombia, 2025
 Distribuido bajo **GNU General Public License v3.0 (GPL-3.0)**
 Consulta el archivo `LICENSE` para más detalles.
 
+
+## 🔐 Credenciales predeterminadas (modo Live)
+
+- **Usuario:** `user`  
+- **Contraseña:** `live`
+
+> Nota: la cuenta `root` existe pero se encuentra bloqueada por defecto (sin acceso directo).  
+> Para tareas administrativas, use `sudo -i` desde el usuario `user`.
+
+
 ---
 
 ## 📦 Rutas técnicas principales
