@@ -20,7 +20,7 @@ cmake
 docker.io
 docker-compose
 ansible
-awscli
+awscli2              # ← reemplaza awscli (nombre correcto en Debian 12)
 
 # --- Electrónica e IoT ---
 arduino
@@ -33,7 +33,8 @@ mosquitto-clients
 libmodbus-dev
 python3-pymodbus
 kicad
-sigrok
+sigrok-cli           # ← reemplaza sigrok (binario real)
+fx2lafw              # ← firmware para analizadores lógicos USB
 pulseview
 
 # --- Virtualización y compatibilidad ---
@@ -42,4 +43,3 @@ open-vm-tools-desktop
 qemu-guest-agent
 spice-vdagent
 hyperv-daemons
-
