@@ -57,6 +57,7 @@ live-image-amd64.hybrid.iso
 
 ![Escritorio XFCE con logo makeAutomatic](imagenes/makeauto-desktop.png)
 ![Firefox y systemd activos](imagenes/makeauto-systemd.png)
+![Firefox activo](imagenes/makeauto-firefox.png)
 
 ---
 
